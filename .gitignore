@@ -1,0 +1,8 @@
+.venv
+.venv/
+.idea/
+
+.env
+
+# other temp working files and folders
+debug_output/
