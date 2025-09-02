@@ -6,8 +6,4 @@
 
 # other temp working files and folders
 debug_output/
-
-# the adapted LoRA models (i.e. the adapted layer) downloaded from Google Colab after generation
-meta-llama-Meta-Llama-3.1-8B-Instruct-tuned-for-economics/
-mistralai-Mistral-7B-Instruct-v0.3-tuned-for-economics/
-google-gemma-2-2b-it-tuned-for-economics/
+adapted_models/
